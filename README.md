@@ -51,7 +51,7 @@ Insert cells with an INDIRECT formula from "example" file for data referencing:
 
 ## **Organize Data for Final Analysis:**
 
-1. Transfer the processed data from Sheet2 to the Sheet3 and copy headings from the corresponding Sheet3 from the "example" file or make it by yourself: 
+1. Transfer the processed data from Sheet2 to the Sheet3 and copy headings from the corresponding Sheet3 from the "example" file or make it by yourself. 
 2. Use the Cytosolver app to identify the segment(s) where measurements begin with cell №1. Note that the data is divided into separate runs, and after each run, the measurements restart from cell №1. Ensure you correctly split the data based on these runs.
 E.G. For the provided "example" file, this is Segment 36.
 3. I'm using distinct colours to differentiate between calcium and shortening data.
